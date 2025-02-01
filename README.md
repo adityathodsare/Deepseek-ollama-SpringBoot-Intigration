@@ -1,6 +1,6 @@
 # Deepseek-ollama-SpringBoot-Intigration
 
-This is a Spring Boot WebFlux-based chatbot using Deepseek.
+This is a Spring Boot WebFlux-based chatbot using Deepseek and spring AI
 ## Features
 - Handles chat queries via REST API
 - Supports streaming responses
